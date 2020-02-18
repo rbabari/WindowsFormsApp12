@@ -33,7 +33,6 @@
             this.SuspendLayout();
             // 
             // button1
-            // Hello 
             // 
             this.button1.Location = new System.Drawing.Point(656, 59);
             this.button1.Name = "button1";
@@ -45,7 +44,7 @@
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(610, 116);
+            this.comboBox1.Location = new System.Drawing.Point(444, 124);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
             this.comboBox1.TabIndex = 1;
