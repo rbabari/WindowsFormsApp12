@@ -33,6 +33,7 @@
             this.SuspendLayout();
             // 
             // button1
+            // Hello 
             // 
             this.button1.Location = new System.Drawing.Point(656, 59);
             this.button1.Name = "button1";
