@@ -11,6 +11,7 @@ namespace WindowsFormsApp1
         /// <summary>
         /// Point d'entrée principal de l'application.
         /// </summary>
+        /// hello
         [STAThread]
         static void Main()
         {
